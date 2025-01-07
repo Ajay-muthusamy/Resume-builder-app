@@ -5,6 +5,7 @@ export default function App() {
       Hello world!
     </h1>
     <p>hai</p>
+    <h1>Resume</h1>
     </>
     
   )
