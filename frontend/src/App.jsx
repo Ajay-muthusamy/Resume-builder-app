@@ -6,6 +6,7 @@ export default function App() {
     </h1>
     <p>hai</p>
     <h1>Resume</h1>
+    <h1>Hello Anand</h1>
     </>
     
   )
